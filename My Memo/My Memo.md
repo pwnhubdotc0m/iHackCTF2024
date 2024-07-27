@@ -1,4 +1,4 @@
-<img width="409" alt="Screenshot 2024-07-28 at 1 07 45 AM" src="https://github.com/user-attachments/assets/a37934e0-7a74-41de-a06f-ebbaa02533fa"># My Memo CTF Writeup
+# My Memo CTF Writeup
 
 ## Challenge Information
 - **Category**: Web  
